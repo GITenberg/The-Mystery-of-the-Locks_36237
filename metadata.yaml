@@ -1,0 +1,32 @@
+_repo: The-Mystery-of-the-Locks_36237
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36237-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Howe, E. W. (Edgar Watson)
+    aliases:
+    - Howe, Ed
+    - Howe, Edgar Watson
+    birthdate: 1853
+    deathdate: 1937
+    gutenberg_agent_id: '38154'
+    url: http://www.gutenberg.org/2009/agents/38154
+description: ''
+gutenberg_issued: '2011-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Nebraska -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Mystery of the Locks
+url: http://www.gutenberg.org/ebooks/36237
