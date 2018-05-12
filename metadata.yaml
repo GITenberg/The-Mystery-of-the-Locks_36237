@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '38154'
     url: http://www.gutenberg.org/2009/agents/38154
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36237#The-Mystery-of-the-Locks
 gutenberg_issued: '2011-05-27'
 gutenberg_type: Text
 identifiers:
